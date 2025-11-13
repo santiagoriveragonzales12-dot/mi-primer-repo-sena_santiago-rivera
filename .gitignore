@@ -1,0 +1,15 @@
+ # Archivos temporales del sistema
+ .DS_Store
+ Thumbs.db
+ # Configuraciones de Visual Studio Code
+ .vscode/
+ *.code-workspace
+ # Archivos de registros y temporales
+ *.log
+ *.tmp
+ *.bak
+ ~*
+ # Archivos de ofimática que no quiero versionar
+ *.docx
+ *.xlsx
+ *.pptx
